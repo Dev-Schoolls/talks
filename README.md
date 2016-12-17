@@ -16,6 +16,6 @@ It is ShowTime!
 
 > JS de alto desempenho
 
-**Nome do resolvedor de problemas**: [João Batista](github.com/JsBatista)
+**Nome do resolvedor de problemas**: [João Batista](https://github.com/JsBatista)
 
 **Descrição**: Como fazer simples  e pequenas modificações em seu código para melhorar seu desempenho.
