@@ -36,3 +36,10 @@ It is ShowTime!
  
 **Descrição**: Arquitetura sem um problema definido é um desperdicio. Mas se pudesse resumir de forma grosseira a maioria das aplicações web, usaria apenas duas palavras: comando e consulta. 
 
+### Filosofia
+
+> Unix o/
+
+**Nome**: [Daniel](https://github.com/daskwf)
+
+**Descrição**: Além de ser um assunto interessante é uma otima oportunidade de eu aprendê-lo.
