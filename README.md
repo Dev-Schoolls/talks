@@ -1,6 +1,6 @@
 # talks
 
-> Follow intructions on https://dev-schoolls.slack.com/general 
+> Follow intructions on https://dev-schoolls.slack.com/general
 
 It is ShowTime!
 
@@ -29,10 +29,18 @@ It is ShowTime!
 **Descrição**: Como fazer simples  e pequenas modificações em seu código para melhorar seu desempenho.
 
 ### CQRS
- 
-> Como se arquitetar aplicações web
- 
-**Nome do resolvedor de problemas**: [Abraão Alves](https://github.com/abraaoalves)
- 
-**Descrição**: Arquitetura sem um problema definido é um desperdicio. Mas se pudesse resumir de forma grosseira a maioria das aplicações web, usaria apenas duas palavras: comando e consulta. 
 
+> Como se arquitetar aplicações web
+
+**Nome do resolvedor de problemas**: [Abraão Alves](https://github.com/abraaoalves)
+
+**Descrição**: Arquitetura sem um problema definido é um desperdicio. Mas se pudesse resumir de forma grosseira a maioria das aplicações web, usaria apenas duas palavras: comando e consulta.
+
+
+### Talk do Queiroz
+
+> Um pouco sobre react!
+
+**Nome**: [Phillipe Queiroz](github.com/phqueiro)
+
+**Descrição**: O que é react e algumas de suas vantagens.
