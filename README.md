@@ -17,5 +17,14 @@ It is ShowTime!
 
 > Game Design: Abordagens de UI UX
 
-
 **Descrição**: Como ter um Design bonito, e ainda sim, Imersivo e Harmonioso
+
+
+### Talk do Batista
+
+> JS de alto desempenho
+
+**Nome do resolvedor de problemas**: [João Batista](https://github.com/JsBatista)
+
+**Descrição**: Como fazer simples  e pequenas modificações em seu código para melhorar seu desempenho.
+
