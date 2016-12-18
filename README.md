@@ -44,5 +44,3 @@ It is ShowTime!
 **Nome**: [Phillipe Queiroz](github.com/phqueiro)
 
 **Descrição**: O que é react e algumas de suas vantagens.
-=======
->>>>>>> upstream/master
