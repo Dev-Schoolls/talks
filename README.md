@@ -4,10 +4,10 @@
 
 It is ShowTime!
 
-### Talk do Albuquerque
+### Sweet Macros O' Mine
 
-> \#descubra \#mimAcher \#sextou
+> E se parássemos de criar linguagens que compilam para JS e passássemos a recriar JS?
 
-**Nome do pedreiro**: [Matheus](github.com/ythecombinator)
+**Quem?** [Matheus](github.com/ythecombinator)
 
-**Descrição**: Nessa *talk*, o Matheus vai falar de algo que para você é `Either<Desconhecido, MaisQueDominado>` mas que `Maybe.Just("Vai te surpreender")`! 🔝👌😂
+**Descrição**: Lisp está, desde os saudosos anos 70, nos mostrando que *macros* podem mudar de maneira absurda o ecossistema de uma linguagem–e não é de se assustar o fato de novas *langs* terem feito grandes esforços para incorporá-las. Agora é hora de ver como elas podem impulsionar ainda mais a evolução do JavaScript.
