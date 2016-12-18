@@ -28,3 +28,11 @@ It is ShowTime!
 
 **Descrição**: Como fazer simples  e pequenas modificações em seu código para melhorar seu desempenho.
 
+### CQRS
+ 
+> Como se arquitetar aplicações web
+ 
+**Nome do resolvedor de problemas**: [Abraão Alves](https://github.com/abraaoalves)
+ 
+**Descrição**: Arquitetura sem um problema definido é um desperdicio. Mas se pudesse resumir de forma grosseira a maioria das aplicações web, usaria apenas duas palavras: comando e consulta. 
+
