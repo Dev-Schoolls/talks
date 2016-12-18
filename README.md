@@ -4,6 +4,7 @@
 
 It is ShowTime!
 
+
 ### Sweet Macros O' Mine
 
 > E se parássemos de criar linguagens que compilam para JS e passássemos a recriar JS?
@@ -28,6 +29,7 @@ It is ShowTime!
 
 **Descrição**: Como fazer simples  e pequenas modificações em seu código para melhorar seu desempenho.
 
+
 ### CQRS
  
 > Como se arquitetar aplicações web
@@ -36,3 +38,11 @@ It is ShowTime!
  
 **Descrição**: Arquitetura sem um problema definido é um desperdicio. Mas se pudesse resumir de forma grosseira a maioria das aplicações web, usaria apenas duas palavras: comando e consulta. 
 
+
+### Map & Reduce, suas novas melhores amantes.
+
+> Introduzindo funçőes de alta ordem em JavaScript.
+
+**Facilitador**: [Augusto](https://github.com/augustosfalcao)
+
+**Descrição**: o que são Map e Reduce, de onde elas vieram, um porque de se usá-las, aplicações.
